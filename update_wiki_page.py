@@ -18,7 +18,7 @@ from scrapy.crawler import CrawlerProcess
 
 class MySpider(scrapy.Spider):
     name = 'myspider'
-    start_urls = ['https://smxfx.com']
+    start_urls = ['https://ytxfx.xyz']
 
     def parse(self, response):
         # 爬取首页的列表中的第一个链接
