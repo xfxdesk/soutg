@@ -6,6 +6,8 @@ soutg 是一个强大的 Telegram 内容搜索系统，提供群组、频道、�
 
 在telegram中可以进行搜索，包含群组，频道，媒体资源以及讨论，支持上页，下一页
 ![image](https://github.com/user-attachments/assets/3a0401eb-c811-4450-93ac-47a1ba054eff)
+也可以在浏览器中搜索内容
+![image](https://github.com/user-attachments/assets/89c2ac51-9921-4c17-be2d-ef6552d16b0b)
 
 搜tg,搜tg <a href="soutg.com">soutg.com</a> 提供🔍中文搜索🔍资源直达  在telegram中搜索 机器人 @baidusou_bot  帮你找到telegram上有趣的群组、频道、视频、音乐、电影、新闻
 
