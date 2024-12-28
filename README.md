@@ -137,7 +137,7 @@ soutg 是一个强大的 Telegram 内容搜索系统，提供群组、频道、�
 - 内容: 
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3f2a9a3c780f769f4fa967182ff571db
 http://subssr.xfxvpn.me/api/v1/client/subscribe?token=eeff8b835ab28953295f2c0ada24fd18
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=df224b650e1614b5bde3d95038b2383c
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d92508767c59b9ccb0d4530bca41bee5 
-- 更新时间: 2024年12月28日20点16分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=d92508767c59b9ccb0d4530bca41bee5
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=df224b650e1614b5bde3d95038b2383c 
+- 更新时间: 2024年12月28日20点52分 
 结束
