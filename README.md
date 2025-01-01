@@ -133,11 +133,11 @@ soutg 是一个强大的 Telegram 内容搜索系统，提供群组、频道、�
 
 - 免费节点分享 
 - 域名: ['https://ytxfx.xyz'] 
-- 标题:2024年12月31日分享免费的V2Ray节点！10个免费高速节点、4个订阅链接、支持 Clash、V2rayN等流行软件、秒速访问、终身免费 VPN等，让您的上网体验更加便捷、快捷、稳定！网络爬墙,免费梯子,免费节点,永久免费代理商  |  羊驼想分享 
+- 标题:2025年1月1日分享免费的V2Ray节点！10个免费高速节点、4个订阅链接、支持 Clash、V2rayN等流行软件、秒速访问、终身免费 VPN等，让您的上网体验更加便捷、快捷、稳定！网络爬墙,免费梯子,免费节点,永久免费代理商  |  羊驼想分享 
 - 内容: 
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=37fd34568d012c4cd4d50c11d3c34d54
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=ce9ae6c6b04d8a6c912fae992ea3acbb
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=84775f5f135b63a5937d86775d49856f
-http://subssr.xfxvpn.me/api/v1/client/subscribe?token=0c20a4dd868f26dec1cfa41dd0a32260 
-- 更新时间: 2025年01月01日12点12分 
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=3afea48d33f28e4922c8ae3cf08e1e1b
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=39ec9dcc79ef58a1d0d70ae5d78007f0
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=420d5c960312cb37c9a7049341ddb865
+http://subssr.xfxvpn.me/api/v1/client/subscribe?token=259a133633b6c11fa12f97d60e05aea6 
+- 更新时间: 2025年01月01日12点38分 
 结束
